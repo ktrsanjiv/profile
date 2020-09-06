@@ -111,10 +111,10 @@
                 </ul>
             </nav>
             <ul class="social-icons">
-                <li><a href="https://www.facebook.com/nilay.patel.739"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://www.twitter.com/nilaypatel1810"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://www.linkedin.com/in/nilay-patel18"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="https://www.github.com/nilay18"><i class="fa fa-github"></i></a></li>
+                <li><a href="https://www.facebook.com/sanjivktr/"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/sanjivswaraj"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/sanjiv-profile/"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/ktrsanjiv"><i class="fa fa-github"></i></a></li>
                 <!-- <li><a href="#"><i class="fa fa-behance"></i></a></li> --> -->
             </ul>
         </div>
@@ -184,10 +184,10 @@
                                 <h4>Programming Languages</h4>
                                 <span> </span>
                                 <ul>
-                                    <li>Java</li>
                                     <li>Python</li>
+                                    <li>.Net</li>
                                     <li>C++</li>
-                                    <li>PL/SQL</li>
+                                    <li>SQL</li>
                                 </ul>
                             </div>
                         </div>
@@ -196,11 +196,15 @@
                                 <h4>Web Technologies</h4>
                                 <span> </span>
                                 <ul>
-                                    <li>HTML</li>
-                                    <li>CSS</li>
+                                    <li>HTML5</li>
+                                    <li>CSS3</li>
                                     <li>JavaScript</li>
+                                    <li>Backbone JS</li>
+                                    <li>Flasks</li>
+                                    <li>Django</li>
+                                    <li>FastAPI</li>
                                     <li>REST API</li>
-                                    <li>SOAP Web Services</li>
+                                    <li>Services</li>
                                 </ul>
                             </div>
                         </div>
@@ -212,7 +216,9 @@
                                     <li>AWS</li>
                                     <li>EC2</li>
                                     <li>Apache Hadoop</li>
-                                    <li>Apache Spark</li>
+                                    <li>Apache Hive</li>
+                                    <li>Apache Sqoop</li>
+                                    <li>Azure</li>
                                 </ul>
                             </div>
                         </div>
@@ -225,6 +231,29 @@
                                     <li>NoSQL</li>
                                     <li>Oracle</li>
                                     <li>MySQL</li>
+                                    <li>AWS Dynamo</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="text-content">
+                                <h4>Data Visualization</h4>
+                                <span> </span>
+                                <ul>
+                                    <li>Tableau,</li>
+                                    <li>Bokeh</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="text-content">
+                                <h4>Machine Learning Algorithm</h4>
+                                <span> </span>
+                                <ul>
+                                    <li>Linear Regression Algorithm</li>
+                                    <li>Logistic Algorithm</li>
+                                    <li>Random Forest</li>
+                                    <li>Etc..</li>
                                 </ul>
                             </div>
                         </div>
@@ -233,9 +262,7 @@
                                 <h4>Others</h4>
                                 <span> </span>
                                 <ul>
-                                    <li>Hibernate ORM</li>
                                     <li>Docker</li>
-                                    <li>Kunernetes</li>
                                     <li>Linux</li>
                                     <li>Agile</li>
                                 </ul></div>
@@ -251,44 +278,46 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-heading" style="text-align:left">
-                            <h2><em><u>TATA CONSULTANCY SERVICES</u></em></h2>
-                            <h4>Sept'15-Sept'18</h4>
+                            <h2><em><u>Robert Bosch Engineering and Business Solutions Private Limited</u></em></h2>
+                            <h4>March'17-Till Now</h4>
+                            <p>Senior Engineer</p>
+                        </div>
+                        <div class="item">
+                            <div class="text-content" style="text-align:left">
+                                <ul>
+                                    <li>Worked on Created and maintained Technical documentation for launching HADOOP Clusters and for executing Hive queries</li>
+                                    <li>Created Sqoop jobs with incremental load to extract the data into HDFS.</li>
+                                    <li>Created a merge jobs to merge the old data that was already there in HDFS with new extracted data before loading into Hive.</li>
+                                    <li>Creating Partitioned, Bucketed table in Hive and design both Managed and External tables in Hive to optimize performance.</li>
+                                    <li>Utilized AWS Lamda, EC2, S3, IAM and VPC for having a scalable and reliable web application.</li>
+                                    <li>Handling structured and semi structured data using Hive.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="accent-button button">
+                            <a href="https://www.bosch-india-software.com/en/">Visit Website</a>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="section-heading" style="text-align:left">
+                            <h2><em><u>eJeeva Technology</u></em></h2>
+                            <h4>Dec'14-March'17</h4>
                             <p>Software Engineer</p>
                         </div>
                         <div class="item">
                             <div class="text-content" style="text-align:left">
                                 <ul>
-                                    <li>Worked on Oracle Database, Java APIs and Oracle EBS R12 forms to implement the Inventory and Order management modules of Supply Chain Management for GE Oil and Gas. Also migrated the whole application from Oracle 11g to R12.</li>
-                                    <li>Implemented the Fleet Data Management (FDM) application using JavaScript, Java EE, and Oracle database objects to increase the reliability of huge machines at GE’s manufacturing plants to 95% and decrease maintenance cost by 60%.</li>
-                                    <li>Upgraded the Warehouse Management system by developing Oracle Forms and database packages. The application now can automatically prioritize the delivery of boxes, saving 30% of total manufacturing time.</li>
-                                    <li>Agile team - daily stand-ups with remote teams, issues tracking using Jira, bi-weekly sprints, Git for version control.</li>
-                                    <li>Utilized AWS Lamda, EC2, S3, IAM and VPC for having a scalable and reliable FDM web application.</li>
-                                    <li>Experienced in creating multiple VPC’s and public, private subnets, and distributed them as groups into various availability zones of the VPC.</li>
-                                    <li>Six Sigma Green Belt certification by TCS for saving human efforts worth $200K using automation</li>
+                                    <li>Work as Full Stack Developer, Mainly, Planning and Helping in designing of User Interface (UI).</li>
+                                    <li>Working with MVC Architecture.</li>
+                                    <li>Create user screens from design following project style guidelines.</li>
+                                    <li>Perform Bug fixing both for UI and business logic</li>
+                                    <li>
+                                    Development and troubleshooting of various modules: o Server side coding o Resolving UI issues o Querying database</li>
                                 </ul>
                             </div>
                         </div>
                         <div class="accent-button button">
-                            <a href="https://www.tcs.com/">Visit Website</a>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="section-heading" style="text-align:left">
-                            <h2><em><u>INSTITUTIONAL RESEARCH</u></em></h2>
-                            <h4>JUNE'19-Sept'19</h4>
-                            <p>Data Analyst Intern</p>
-                        </div>
-                        <div class="item">
-                            <div class="text-content" style="text-align:left">
-                                <ul>
-                                    <li>Developed SQL Server procedures to audit the university’s internal data and save 40% of manual work.</li>
-                                    <li>Utilized IBM’s ETL tool, InfoSphere DataStage for data pipelining and migration to the scale of Millions of records.</li>
-                                    <li>Perform data analysis using Tableau on admission, enrollment, class, and faculty data.</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="accent-button button">
-                            <a href="https://www.scu.edu/institutional-research/data/academic/">Visit Website</a>
+                            <a href="https://ejeeva.com/">Visit Website</a>
                         </div>
                     </div>
                 </div>
@@ -302,38 +331,21 @@
                             <div class="tabs-content">
                                 <div class="wrapper">
                                     <ul class="tabs clearfix" data-tabgroup="first-tab-group1">
-                                      <li><a href="#tb1" class="active">Masters</a></li>
                                       <li><a href="#tb2">Bachelors</a></li>
                                     </ul>
                                     <section id="first-tab-group1" class="tabgroup" style="text-align:left">
-                                        <div id="tb1">
-                                            <ul>
-                                                <li>
-                                                    <div class="item">
-                                                        <img src="img/SCU.jpg" alt="">
-                                                        <div class="text-content">
-                                                            <h4>Santa Clara University, Santa Clara, United States</h4>
-                                                            <span>Sept'18 - June'20</span>
-                                                            <p>Masters of Science in Computer Science</p>
-                                                            <div class="accent-button button" >
-                                                                <a href="https://www.scu.edu/">Visit Website</a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                        
                                         <div id="tb2">
                                             <ul>
                                                 <li>
                                                     <div class="item" >
                                                         <img src="img/blog_3.jpg" alt="">
                                                         <div class="text-content" >
-                                                            <h4 >Vishwakarma Government Engineering College, India</h4>
-                                                            <span>June'11-June'15</span>
+                                                            <h4 >Priyadarshini Institute of Engineering and Technology, India</h4>
+                                                            <span>July'09-June'13</span>
                                                             <p>Bachelors of Engineering in Computer Engineering</p>
                                                             <div class="accent-button button">
-                                                                <a href="http://www.vgecg.ac.in/">Visit Website</a>
+                                                                <a href="https://www.piet.edu.in/">Visit Website</a>
                                                             </div>
                                                         </div>
                                                     </div>

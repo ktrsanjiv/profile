@@ -279,7 +279,7 @@
                     <div class="col-md-12">
                         <div class="section-heading" style="text-align:left">
                             <h2><em><u>Robert Bosch Engineering and Business Solutions Private Limited</u></em></h2>
-                            <h4>March'17-Till Now</h4>
+                            <h4>March'17- Present</h4>
                             <p>Senior Engineer</p>
                         </div>
                         <div class="item">
@@ -356,89 +356,7 @@
                                 </div>
                             </div>
                         </div>
-                <div class="section-heading">
-                    <h1><br>Academic Projects</h1>
-                </div>
-                <div class="section-content">
-                    <div class="tabs-content">
-                        <div class="wrapper">
-                            <ul class="tabs clearfix" data-tabgroup="first-tab-group">
-                              <li><a href="#tab1" class="active">BART</a></li>
-                              <li><a href="#tab2">SFA</a></li>
-                              <li><a href="#tab3">HIH</a></li>
-                              <li><a href="#tab4">FIB</a></li>
-                            </ul>
-                            <section id="first-tab-group" class="tabgroup">
-                                <div id="tab1">
-                                    <ul>
-                                        <li>
-                                            <div class="item">
-                                                <img src="img/bart.jpg" alt="">
-                                                <div class="text-content">
-                                                    <h4>Bay Area Rapid Transit</h4>
-                                                    <span>March 2019</span>
-                                                    <p>It is a web application created for planning your trip, stations information, fare estimation, nearest station navigation and live tracking for Bay Area Rapid Transit (BART) system at California.</p>
-                                                    <div class="accent-button button">
-                                                        <a href="https://github.com/nilay18/BART">Source Code</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div id="tab2">
-                                    <ul>
-                                        <li>
-                                            <div class="item">
-                                                <img src="img/sfa.jpg" alt="">
-                                                <div class="text-content">
-                                                    <h4>Sales Force Automation (SCM) </h4>
-                                                    <span>June 2014</span>
-                                                    <p>Automation of whole Supply chain management using some simple analytic techniques. SCM at three different level which includes the manufacturer, distributer and retailer.</p>
-                                                    
-                                                    <div class="accent-button button">
-                                                        <a href="https://github.com/nilay18/Sales_Force_Management">Source Code</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div id="tab3">
-                                    <ul>
-                                        <li>
-                                            <div class="item">
-                                                <img src="img/blog_2.jpg" alt="">
-                                                <div class="text-content">
-                                                    <h4>Home Information Hub (IOT)</h4>
-                                                    <span>Feb 2019</span>
-                                                    <p>IOT based project using multiple ESP32 chips to have alert systems for emails, meetings, alarm, room temperature and motion detector which gets displayed near portable display units. Effort to create a complete smart home.Also employed a web page and mobile app using which you monitor and control some of the home connected devices.</p>
-                                                    <div class="accent-button button">
-                                                        <a href="https://github.com/nilay18/Home-Information-Hub">Source Code</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div id="tab4">
-                                    <ul>
-                                        <li>
-                                            <div class="item">
-                                                <img src="img/fib.jpg" alt="">
-                                                <div class="text-content">
-                                                    <h4>Fibonacci Sequence Generator</h4>
-                                                    <span>May 2019</span>
-                                                    <p>Created a Kubernetes cluster and deployed a multi-container application using docker on google cloud platform by setting up a production-grade CI/CD pipeline for automatic testing and deployment.</p>
-                                                </div>
-                                            </div>
-                                        </li>                                   
-                                    </ul>
-                                </div>
-                            </section> 
-                        </div>
-                    </div>
-                </div>
+               
             </section>
 
             <section id="contact" class="content-section">
@@ -450,12 +368,12 @@
                            3. Click "Share" and choose "Embed map" tab
                            4. Copy only URL and paste it within the src="" field below
                     -->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3171.698678323684!2d-121.94117618473656!3d37.34964177983916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcbaf36303ec3%3A0x561ca114f6d4e347!2sSanta+Clara+University!5e0!3m2!1sen!2sus!4v1555117282591!5m2!1sen!2sus" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen> allowfullscreen></iframe>                </div>
+                    <iframe src="https://goo.gl/maps/1fzPRpxRXTenxTib8" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen> allowfullscreen></iframe>                </div>
                 <div id="contact-content">
                     <div class="section-heading">
                         <h1>Contact<br><em>Sanjiv</em></h1>
                         <p>Please leave your message below.
-                        <br>In case of error while sending message please contact me on <u>pnilay18@gmail.com</u> or <a href = "mailto:pnilay18@gmail.com">Click here</a> to send email.
+                        <br>In case of error while sending message please contact me on <u>ktrsanjiv@gmail.com</u> or <a href = "mailto:ktrsanjiv@gmail.com">Click here</a> to send email.
                         </p>
                         
                     </div>
